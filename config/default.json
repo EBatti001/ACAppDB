@@ -1,0 +1,19 @@
+{
+    "listen": 8088,
+    "jwtPrivateKey": "jwtPrivateKeyNMM",
+    "publicUrls": [
+        "/login_user/validate_user"
+    ],
+    "originList": [
+        "localhost:8088",
+        "localhost:3000",
+        "cvapi.iamnuhman.com",
+        "http://localhost:3000",
+        "http://cvapi.iamnuhman.com/",
+        "http://localhost:3000/",
+        "http://iamnuhman.com/",
+        "http://iamnuhman.com",
+        "https://iamnuhman.com/",
+        "https://iamnuhman.com"
+    ]
+}
